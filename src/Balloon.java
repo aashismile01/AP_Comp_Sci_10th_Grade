@@ -5,7 +5,7 @@ public class Balloon extends BalloonTester{
 
     // Constructor
     public Balloon() {
-        volume = 0.0;
+        volume = 0.00;
         radius = 0.0;
     }
 
